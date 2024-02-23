@@ -1,4 +1,4 @@
-Year,Name,College,Position,Height (in),Weight (lbs),Wonderlic,Dash 40 yd,Bench Press 225,Vertical Leap,Broad Jump,Shuttle,Shuttle 3 Cone,Lineman
+year,name,college,position,height,weight,wonderlic,dash40,bench,vert_jump,broad_jump,shuttle,shuttle3,lineman
 2013,Oday Aboushi,Virginia,OL,77,308,NA,*5.45,17,23.5,100,4.84,7.92,Yes
 2013,Johnny Adams,Michigan State,DB,70,185,NA,4.48,16,NA,NA,NA,NA,No
 2013,Robert Alford,Southeast Louisiana,DB,70,188,NA,4.39,17,40,132,4.23,6.89,No
@@ -2309,7 +2309,7 @@ Year,Name,College,Position,Height (in),Weight (lbs),Wonderlic,Dash 40 yd,Bench P
 2006,Rodrique Wright,Texas,DL,77,300,NA,5.08,31,32,110,4.52,7.85,Yes
 2006,James Wyche,Syracuse,DL,78,262,NA,4.63,33,33,116,4.51,7.76,Yes
 2006,Vince Young,Texas,QB,77,229,15,*4.48,NA,NA,NA,NA,NA,No
-2005,Hamza Abdullah,Washington State,DB,74,214,NA,"",18,39,114,NA,6.96,No
+2005,Hamza Abdullah,Washington State,DB,74,214,NA,,18,39,114,NA,6.96,No
 2005,Anthony Alabi,Texas Christian,OL,77,310,NA,5.12,18,32.5,105,4.6,7.64,Yes
 2005,Lorenzo Alexander,California,DL,74,289,NA,5.12,28,29.5,NA,4.55,7.55,Yes
 2005,Jared Allen,Florida Atlantic,QB,74,218,19,4.93,NA,27.5,106,4.39,7.3,No
@@ -2523,7 +2523,7 @@ Year,Name,College,Position,Height (in),Weight (lbs),Wonderlic,Dash 40 yd,Bench P
 2005,Jonathan Pollard,Oregon State,LB,73,247,NA,4.68,21,35,116,4.08,7.42,No
 2005,Brady Poppinga,BYU,DL,75,259,NA,4.59,26,35.5,110,4.39,7.29,Yes
 2005,Sione Pouha,Utah,DL,76,325,NA,5.02,32,32.5,107,4.49,7.84,Yes
-2005,Duke Preston,Illinois,OL,77,311,NA,"",21,32,96,4.53,7.58,Yes
+2005,Duke Preston,Illinois,OL,77,311,NA,,21,32,96,4.53,7.58,Yes
 2005,Bobby Purify,Colorado,RB,73,212,NA,4.67,15,33.5,116,4.17,7.22,No
 2005,Bryan Randall,Virginia Tech,QB,73,225,19,4.71,NA,33,113,4.09,6.97,No
 2005,Jamaica Rector,Northwest Missouri State,PC,70,186,NA,4.47,17,36.5,122,4.14,6.8,No
@@ -2533,7 +2533,7 @@ Year,Name,College,Position,Height (in),Weight (lbs),Wonderlic,Dash 40 yd,Bench P
 2005,Ryan Riddle,California,DL,74,253,NA,*4.82,18,NA,NA,NA,NA,Yes
 2005,Dante Ridgeway,Ball State,PC,71,212,NA,4.57,NA,33,117,4.39,7.27,No
 2005,Chris Rix,Florida State,QB,74,214,26,4.7,NA,33.5,116,4.54,7.54,No
-2005,Derreck Robinson,Iowa,DL,76,289,NA,"",27,34.5,114,4.53,7.97,Yes
+2005,Derreck Robinson,Iowa,DL,76,289,NA,,27,34.5,114,4.53,7.97,Yes
 2005,Leon Robinson,Georgia Tech,OL,76,314,NA,5.22,22,36,109,4.76,8.28,Yes
 2005,Courtney Roby,Indiana,PC,73,189,NA,4.41,NA,36.5,126,4,6.61,No
 2005,Aaron Rodgers,California,QB,74,223,39,4.71,NA,34.5,110,NA,7.39,No
